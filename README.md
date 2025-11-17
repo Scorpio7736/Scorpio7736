@@ -11,7 +11,8 @@ I’m Jack London, a Computer Science student at the University of Wisconsin–G
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpio7736&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=It%20doesn%E2%80%99t%20matter%20if%20you%E2%80%99re%20a%20model%20maker,%20a%20potter,%20a%20dancer,%20a%20programmer,%20a%20writer,%20a%20political%20activist,%20a%20teacher,%20a%20musician,%20a%20milliner,%20whatever.%20It%E2%80%99s%20all%20the%20same.%20Making%20is%20making,%20and%20none%20of%20it%20is%20failure.&author=Adam%20Savage)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Scorpio7736&limit=5&theme=dark&combine_all_yearly_contributions=true)
