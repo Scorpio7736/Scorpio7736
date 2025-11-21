@@ -10,8 +10,10 @@ I’m Jack London, a Computer Science student at the University of Wisconsin–G
 ![](https://nirzak-streak-stats.vercel.app/?user=Scorpio7736&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Scorpio7736&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=The%20only%20difference%20between%20screwing%20around%20and%20science%20is%20writing%20it%20down.&author=Adam%20Savage)
+### ✍️ Quotes
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Good%20software%20engineering%20isn't%20about%20writing%20code%3B%20it's%20about%20solving%20problems%20with%20clarity%2C%20creativity%2C%20and%20discipline.&author=Unknown)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=C%23%20is%20the%20language%20you%20choose%20when%20you%20want%20power%2C%20productivity%2C%20and%20sanity%20to%20exist%20in%20the%20same%20project.&author=Every%20C%23%20Developer)
+
 
 
 
